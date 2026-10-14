@@ -1,0 +1,27 @@
+h1.animated {
+  color: #470101;
+  align-items: center;
+  text-align: center;
+  animation: fadeIn 2s ease-in-out;
+}
+
+p.headline {
+  color: #470101;
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+body.resume {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f7eaea;
+  padding: 20px;
+}
+
+hr.divider {
+  border: 1;
+  border-top: 1px solid #470101;
+  margin: 20px 0;
+}
